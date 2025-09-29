@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ## Tools
 <!-- Thanks for icons set: https://devicons.railway.app/ -->
-<img src="https://devicons.railway.app/i/python.svg" width="88" alt="Python" /> <img src="https://devicons.railway.app/i/c.svg" width="88" alt="C" /> <img src="https://devicons.railway.app/i/javascript.svg" width="88" alt="JavaScript" /> <img src="https://devicons.railway.app/i/typescript.svg" width="88" alt="TypeScript" /> <img src="https://devicons.railway.app/i/html5.svg" width="88" alt="HTML5" /> <img src="https://devicons.railway.app/i/css3.svg" width="88" alt="CSS3" /> <img src="https://devicons.railway.app/i/sass.svg" width="88" alt="SASS" />
+<img src="https://devicons.railway.app/i/python.svg" width="88" alt="Python" /> <img src="https://devicons.railway.app/i/c.svg" width="88" alt="C" /> <img src="https://devicons.railway.app/i/javascript.svg" width="88" alt="JavaScript" /> <img src="https://devicons.railway.app/i/typescript.svg" width="88" alt="TypeScript" /> <img src="https://devicons.railway.app/i/html5.svg" width="88" alt="HTML5" /> <img src="https://devicons.railway.app/i/css3.svg" width="88" alt="CSS3" /> 
 
 _
 
