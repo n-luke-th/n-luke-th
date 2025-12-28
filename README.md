@@ -7,12 +7,18 @@
 Contact me at | 联系方式: contact@lukecreated.com OR https://linkedin.com/in/aium-luke
 
 Personal website ｜ 個人網站: www.lukecreated.com
+## Soft skills
+
+- Teamwork & Collaboration
+- Adaptability
+- Problem-Solving
 
 ## Interest in...
 
 - Full Stack development & Mobile app development
 - ML & DL
 - Cloud Computing
+- System Design
 <!--
 ## Using...
 
