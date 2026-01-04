@@ -2,11 +2,16 @@
 
 "**Always learning**"
 
+## Summary
+
+Early-career Software Developer with hands-on experience building full-stack web and mobile applications using Flutter, Firebase, and AWS. Currently working in IT operations while designing internal and personal software systems, with active projects showcased on GitHub. Strong interest in product-focused, data-driven engineering environments, with the ability to learn new technologies quickly and contribute across frontend, backend APIs, and cloud infrastructure.
+
 ## Reach me!
 
 Contact me at | 联系方式: contact@lukecreated.com OR https://linkedin.com/in/aium-luke
 
 Personal website ｜ 個人網站: www.lukecreated.com
+
 ## Soft skills
 
 - Teamwork & Collaboration
