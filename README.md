@@ -25,28 +25,9 @@ Personal website ｜ 個人網站: www.lukecreated.com
 - Cloud Computing
 - System Design
 <!--
-## Using...
-
-### Languages
-- Python
-- HTML&CSS
-- JS&TS
-- SQL
-- Dart
-
-### Frameworks
-- Vue
-- Flutter
-
-### Libraries
-- React
-
 ### Others
 - Jupyter Notebook
 
-### Cloud services
-- AWS
-- GCP
 -->
 <!--
 **ngzh-luke/ngzh-luke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -69,7 +50,7 @@ Here are some ideas to get you started:
 
 _
 
-<img src="https://devicons.railway.app/i/flask-light.svg" width="88" alt="Flask" /> <img src="https://devicons.railway.app/i/fastapi.svg" width="88" alt="FastAPI" /> <img src="https://devicons.railway.app/i/flutter.svg" width="88" alt="Flutter" /> <img src="https://devicons.railway.app/i/react.svg" width="88" alt="React" /> <img src="https://devicons.railway.app/i/vuejs.svg" width="88" alt="VueJS" /> <img src="https://devicons.railway.app/i/nuxtjs.svg" width="88" alt="NuxtJS" /> 
+<img src="https://devicons.railway.app/i/flask-light.svg" width="88" alt="Flask" /> <img src="https://devicons.railway.app/i/fastapi.svg" width="88" alt="FastAPI" /> <img src="https://devicons.railway.app/i/django.svg" width="88" alt="FastAPI" /> <img src="https://devicons.railway.app/i/flutter.svg" width="88" alt="Flutter" /> <img src="https://devicons.railway.app/i/react.svg" width="88" alt="React" /> <img src="https://devicons.railway.app/i/vuejs.svg" width="88" alt="VueJS" /> <img src="https://devicons.railway.app/i/nuxtjs.svg" width="88" alt="NuxtJS" /> 
 
 _
 
