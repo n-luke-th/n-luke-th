@@ -4,7 +4,7 @@
 
 ## Summary
 
-Early-career Software Developer with hands-on experience building full-stack web and mobile applications using Flutter, Firebase, and AWS. Currently working in IT operations while designing internal and personal software systems, with active projects showcased on GitHub. Strong interest in product-focused, data-driven engineering environments, with the ability to learn new technologies quickly and contribute across frontend, backend APIs, and cloud infrastructure.
+Full Stack Software Developer with hands-on experience designing and implementing web and mobile applications across frontend, backend, and cloud infrastructure. Experienced in building secure API-driven systems using Flutter, Firebase, and AWS serverless services. Currently contributing to internal system improvement initiatives within a government organization, with exposure to requirements gathering and system workflow design. Comfortable working across the full software lifecycle — from system design to deployment.
 
 ## Reach me!
 
@@ -48,27 +48,29 @@ Here are some ideas to get you started:
 <!-- Thanks for icons set: https://devicons.railway.app/ -->
 <img src="https://devicons.railway.app/i/python.svg" width="88" alt="Python" /> <img src="https://devicons.railway.app/i/c.svg" width="88" alt="C" /> <img src="https://devicons.railway.app/i/javascript.svg" width="88" alt="JavaScript" /> <img src="https://devicons.railway.app/i/typescript.svg" width="88" alt="TypeScript" /> <img src="https://devicons.railway.app/i/html5.svg" width="88" alt="HTML5" /> <img src="https://devicons.railway.app/i/css3.svg" width="88" alt="CSS3" /> 
 
-_
+---
 
-<img src="https://devicons.railway.app/i/flask-light.svg" width="88" alt="Flask" /> <img src="https://devicons.railway.app/i/fastapi.svg" width="88" alt="FastAPI" /> <img src="https://devicons.railway.app/i/django.svg" width="88" alt="FastAPI" /> <img src="https://devicons.railway.app/i/flutter.svg" width="88" alt="Flutter" /> <img src="https://devicons.railway.app/i/react.svg" width="88" alt="React" /> <img src="https://devicons.railway.app/i/vuejs.svg" width="88" alt="VueJS" /> <img src="https://devicons.railway.app/i/nuxtjs.svg" width="88" alt="NuxtJS" /> 
+<img src="https://devicons.railway.app/i/flask-light.svg" width="88" alt="Flask" /> <img src="https://devicons.railway.app/i/fastapi.svg" width="88" alt="FastAPI" /> <img src="https://devicons.railway.app/i/django.svg" width="88" alt="FastAPI" /> <img src="https://devicons.railway.app/i/flutter.svg" width="88" alt="Flutter" /> <img src="https://devicons.railway.app/i/react.svg" width="88" alt="React" /> <img src="https://devicons.railway.app/i/vuejs.svg" width="88" alt="VueJS" /> 
+<!-- <img src="https://devicons.railway.app/i/nuxtjs.svg" width="88" alt="NuxtJS" />  -->
 
-_
+---
 
-<img src="https://devicons.railway.app/i/mysql.svg" width="88" alt="mySQL" /> <img src="https://devicons.railway.app/i/postgresql.svg" width="88" alt="PostgreSQL" /> <img src="https://devicons.railway.app/i/mongodb.svg" width="88" alt="MongoDB" /> <img src="https://devicons.railway.app/i/redis.svg" width="88" alt="Redis" /> <img src="https://devicons.railway.app/i/prisma-light.svg" width="88" alt="Prisma" />
+<img src="https://devicons.railway.app/i/mysql.svg" width="88" alt="mySQL" /> <img src="https://devicons.railway.app/i/postgresql.svg" width="88" alt="PostgreSQL" /> <img src="https://devicons.railway.app/i/mongodb.svg" width="88" alt="MongoDB" /> <img src="https://devicons.railway.app/i/redis.svg" width="88" alt="Redis" /> 
+<!-- <img src="https://devicons.railway.app/i/prisma-light.svg" width="88" alt="Prisma" /> -->
 
-_
+---
 
 <img src="https://devicons.railway.app/i/aws.svg" width="88" alt="AWS" /> <img src="https://devicons.railway.app/i/firebase.svg" width="88" alt="Firebase" /> <img src="https://devicons.railway.app/i/googlecloud.svg" width="88" alt="GCP" /> <img src="https://devicons.railway.app/i/railway-light.svg" width="88" alt="Railway" />
 
-_
+---
 
 <img src="https://devicons.railway.app/i/docker.svg" width="88" alt="Docker" /> <img src="https://devicons.railway.app/i/nginx.svg" width="88" alt="NGINX" />
 
-_
+---
 
 <img src="https://devicons.railway.app/i/visual-studio-code.svg" width="88" alt="VS Code" /> <img src="https://devicons.railway.app/i/git.svg" width="88" alt="Git" /> <img src="https://devicons.railway.app/i/github-light.svg" width="88" alt="GitHub" /> <img src="https://devicons.railway.app/i/jupyter.svg" width="88" alt="Jupyter Notebook" /> <img src="https://devicons.railway.app/i/bootstrap.svg" width="88" alt="Bootstrap" /> <img src="https://devicons.railway.app/i/vitejs.svg" width="88" alt="ViteJS" /> <img src="https://devicons.railway.app/i/postman.svg" width="88" alt="Postman" />
 
-_
+---
 
 
 ## Stats
@@ -82,3 +84,6 @@ _
 ![n-luke-th's Streak](https://github-readme-streak-stats.herokuapp.com/?user=n-luke-th&theme=vue-dark&hide_border=false)
 
 
+---
+
+<!-- last updated on Feb 19, 2026 -->
