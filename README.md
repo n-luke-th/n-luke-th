@@ -8,7 +8,10 @@ Full Stack Software Developer with hands-on experience designing and implementin
 
 ## Reach me!
 
-Contact me at | 联系方式: contact@lukecreated.com OR https://linkedin.com/in/aium-luke
+Contact me at | 联系方式: 
+
+- Email: contact@lukecreated.com
+- Linkedin: https://linkedin.com/in/aium-luke
 
 Personal website ｜ 個人網站: www.lukecreated.com
 
