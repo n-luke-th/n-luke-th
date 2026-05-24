@@ -15,6 +15,12 @@ Contact me at | 联系方式:
 
 Personal website ｜ 個人網站: www.lukecreated.com
 
+## Languages
+
+- Thai
+- English
+- Chinese
+
 ## Soft skills
 
 - Teamwork & Collaboration
